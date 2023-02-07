@@ -2,6 +2,7 @@ EVR - ETH_VidRip
 ======
 Simple Selenium scraper for automatically downloading Lecture Videos
 
+**Warning**: may break with ETH Video Portal changes. Use at your own risk :D
 
 ## How to Use:
 1. Install requirements
